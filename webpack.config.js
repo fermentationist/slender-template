@@ -36,7 +36,7 @@ module.exports = {
     plugins: [
       new MiniCSSExtractPlugin(),
       new HtmlWebpackPlugin({
-        title: "thinner Svelte App",
+        title: "slender Svelte App",
         favicon: "./public/favicon.png",
         template: "./src/template.ejs",
         inject: true,

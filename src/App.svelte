@@ -41,7 +41,7 @@
     /*∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞*/
     /* Styling for welcome message; please delete along with message in markup */
     /*∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞*/
-    .thinner-welcome-message {
+    .slenderman-welcome-message {
         background-color: rgb(20, 22, 18);
         width: 100vw;
         height: 100vh;
@@ -75,7 +75,7 @@
 ºººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººººº
  -->
  <!-- example markup, okay to delete -->
-<div class="thinner-welcome-message">
+<div class="slenderman-welcome-message">
     <h2>Hey.</h2>
     <p>This is a Svelte app. More on Svelte at <a href="https://svelte.dev" class="small-caps">svelte.dev</a>.</p>
     <p>
